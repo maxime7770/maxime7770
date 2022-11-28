@@ -1,16 +1,15 @@
-### Hi there 👋
+ Welcome to my GitHub profile ! 🥳
 
-<!--
-**maxime7770/maxime7770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 😎
 
-Here are some ideas to get you started:
+Hi ! I'm Maxime. I am passionate about Data Science and AI and love working on projects related to these fields. 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a MEng student at CentraleSupélec and I am graduating in Applied Mathematics. 
+
+## How to reach me 📫
+
+You can contact me on [Linkedin](https://www.linkedin.com/in/maxime-wolf/)
+
+Mail : maxwolf34@gmail.com
+
+Mail at CentraleSupélec : maxime.wolf@student-cs.fr
