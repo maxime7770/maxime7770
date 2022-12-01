@@ -15,4 +15,4 @@ Mail: maxwolf34@gmail.com
 Mail at CentraleSupélec: maxime.wolf@student-cs.fr
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=maxime7770&show_icons=true&theme=dark&locale=en&hide_border=true&include_all_commits=true&count_private=true" alt="maxime7770" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=maxime7770&show_icons=true&theme=dark&locale=en&hide_border=true&include_all_commits=true&count_private=true" alt="maxime7770" /> 
