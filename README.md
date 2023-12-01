@@ -1,6 +1,6 @@
  Welcome to my GitHub profile! 🥳
 
-## About me 😎
+## About me
 
 Hi! I'm Maxime. I am passionate about Data Science and AI and love working on projects related to these fields. 🤖
 
