@@ -1,7 +1,6 @@
 ## About me
 
-Hi! I'm Maxime. Passionate about Data Science and AI to solve real-world problems.
-Currently, I'm completing my Master's in Business Analytics at MIT. 
+Hi! I'm Maxime. Passionate about Data Science and Machine Learning to solve real-world problems, I'm currently completing my Master's in Business Analytics at MIT. If you're interested in discussing the possibilities of ML/AI or just want to exchange ideas, feel free to connect! 
 
 ## How to reach me
 
