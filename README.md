@@ -37,3 +37,5 @@ Hi! I'm Maxime, a Master of Business Analytics (MBAn) candidate at MIT
   <a href="https://br.linkedin.com/in/maxime-wolf/en"><img src="https://img.shields.io/badge/Connect-0077B5?style=social&logo=linkedin"/></a>
 </span>
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=maxime7770.maxime7770)
+
