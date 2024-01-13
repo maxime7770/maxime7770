@@ -1,14 +1,24 @@
 ## About me
 
-Hi! I'm Maxime. Passionate about Data Science and Machine Learning to solve real-world problems, I'm currently completing my Master's in Business Analytics at MIT. If you're interested in discussing the possibilities of ML/AI or just want to exchange ideas, feel free to connect! 
+Hi! I'm Maxime, a Master of Business Analytics (MBAn) candidate at MIT
 
-## How to reach me
+- 👨🏻‍💻 I’m currently working on various Machine Learning and Deep Learning projects, with a focus on NLP and LLMs
+- 🔍 I’m also interested in Data Science consulting and exploring the business applications of Machine Learning
+- 🔬 I am conducting Research at the intersection of Optimization and Reinforcement Learning at MIT
+- 📮 My MIT email is maximew@mit.edu. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/maxime-wolf/)!
 
-You can contact me on [Linkedin](https://www.linkedin.com/in/maxime-wolf/)
+## Languages and Tools
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R&logoColor=276DC3)
+![HiveQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=apachehive&logoColor=FDEE21)
+![Julia](https://img.shields.io/badge/-Julia-black.svg?logo=Julia&logoColor=9558B2)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white)
 
-Personal mail: maxwolf34@gmail.com
-MIT mail: maximew@mit.edu
 
+## Github Stats
 
 [![Maxime's github stats](https://github-readme-stats.vercel.app/api?username=maxime7770&show_icons=true&theme=gotham&border_color=2ba888)](https://github.com/anuraghazra/github-readme-stats)
 
