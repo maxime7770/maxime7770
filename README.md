@@ -1,11 +1,14 @@
+# Hi! I'm Maxime  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+
 ## About me
 
-Hi! I'm Maxime, a Master of Business Analytics (MBAn) candidate at MIT
-
+- 🎓 Currently pursuing a Master of Business Analytics (MBAn) at MIT Sloan and at the MIT Operations Research Center. Completed my MEng in Applied Mathematics at CentraleSupelec in France
 - 👨🏻‍💻 I’m currently working on various Machine Learning and Deep Learning projects, with a focus on NLP and LLMs
 - 🔍 I’m also interested in Data Science consulting and exploring the business applications of Machine Learning
-- 🔬 I am conducting Research at the intersection of Optimization and Reinforcement Learning at MIT
-- 📮 My MIT email is maximew@mit.edu. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/maxime-wolf/)!
+- 🔬 I'mconducting Research at the intersection of Optimization and Reinforcement Learning at MIT
+
+📮 My MIT email is maximew@mit.edu. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/maxime-wolf/)!
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
