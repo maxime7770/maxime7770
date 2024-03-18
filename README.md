@@ -23,6 +23,8 @@
 
 ## Github Stats
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maxime7770&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Maxime's github stats](https://github-readme-stats.vercel.app/api?username=maxime7770&show_icons=true&theme=gotham&border_color=2ba888)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxime7770&layout=compact&size_weight=0&count_weight=1&theme=gotham&border_color=2ba888)](https://github.com/anuraghazra/github-readme-stats)
