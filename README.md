@@ -6,7 +6,7 @@
 - 🎓 Currently pursuing a Master of Business Analytics (MBAn) at MIT Sloan and the MIT Operations Research Center. Completed my MEng in Applied Mathematics at CentraleSupelec in France
 - 👨🏻‍💻 I’m currently working on various Machine Learning and Deep Learning projects, with a focus on NLP and LLMs
 - 🔍 I’m also interested in Data Science consulting and exploring the business applications of Machine Learning
-- 🔬 I'm conducting Research at the intersection of Optimization and Reinforcement Learning at MIT, and in collaboration with IBM Research
+- 🔬 I'm conducting Research at the intersection of Optimization and Machine Learning at MIT, and in collaboration with IBM Research
 
 📮 My MIT email is maximew@mit.edu. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/maxime-wolf/)!
 
