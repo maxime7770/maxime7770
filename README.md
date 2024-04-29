@@ -8,7 +8,7 @@
 - 🔍 I’m also interested in Data Science consulting and exploring the business applications of Machine Learning
 - 🔬 I'm conducting Research at the intersection of Optimization and Machine Learning at MIT, and in collaboration with IBM Research
 
-📮 My MIT email is maximew@mit.edu. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/maxime-wolf/)!
+📮 My MIT email is maximew@mit.edu. You can also connect with me on <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=maxime-wolf" target="_blank">LinkedIn</a>.
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
