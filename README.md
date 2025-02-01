@@ -3,10 +3,11 @@
 
 ## About me
 
-- 🎓 Currently pursuing a Master of Business Analytics (MBAn) at MIT Sloan and the MIT Operations Research Center. Completed my MEng in Applied Mathematics at CentraleSupelec in France
-- 👨🏻‍💻 I’m currently working on various Machine Learning and Deep Learning projects, with a focus on NLP and LLMs
-- 🔍 I’m also interested in Data Science consulting and exploring the business applications of Machine Learning
-- 🔬 I'm conducting Research at the intersection of Optimization and Machine Learning at MIT, and in collaboration with IBM Research
+- 💼 Machine Learning Engineer at PayPal
+- 🎓 Previously studied Data Science at MIT. Also completed an MEng in Applied Mathematics at CentraleSupelec in France
+- 👨🏻‍💻 Passionate about Machine Learning and Deep Learning, with a focus on NLP, LLMs, and Recommendation Systems
+- 🔍 I’m also interested in Data Science consulting and the business applications of Machine Learning
+- 🔬 Conducted research at the intersection of Optimization and Machine Learning at MIT, in collaboration with IBM Research
 
 📮 My MIT email is maximew@mit.edu. You can also connect with me on <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=maxime-wolf" target="_blank">LinkedIn</a>.
 
