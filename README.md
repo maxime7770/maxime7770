@@ -11,6 +11,11 @@
 
 📮 My MIT email is maximew@mit.edu. You can also connect with me on <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=maxime-wolf" target="_blank">LinkedIn</a>.
 
+<br>
+<span>
+  <a href="https://br.linkedin.com/in/maxime-wolf/en"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+</span>
+
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R&logoColor=276DC3)
@@ -38,10 +43,4 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-<br><br>
-<span>
-  <a href="https://br.linkedin.com/in/maxime-wolf/en"><img src="https://img.shields.io/badge/Connect-0077B5?style=social&logo=linkedin"/></a>
-</span>
-
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=maxime7770.maxime7770)
-
