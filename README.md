@@ -13,7 +13,7 @@
 
 <br>
 <span>
-  <a href="https://br.linkedin.com/in/maxime-wolf/en"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+  <a href="https://br.linkedin.com/in/maxime-wolf/en" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
 </span>
 
 ## Languages and Tools
