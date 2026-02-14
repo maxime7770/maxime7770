@@ -3,9 +3,9 @@
 
 ## About me
 
-- 💼 Machine Learning Engineer at PayPal
+- 💼 Optimization & ML at Waymo
 - 🎓 Previously studied Data Science at MIT. Also completed an MEng in Applied Mathematics at CentraleSupelec in France
-- 👨🏻‍💻 Passionate about Machine Learning and Deep Learning, with a focus on NLP, LLMs, and Recommendation Systems
+- 👨🏻‍💻 Passionate about Machine Learning and Deep Learning
 - 🔍 I’m also interested in Data Science consulting and the business applications of Machine Learning
 - 🔬 Conducted research at the intersection of Optimization and Machine Learning at MIT, in collaboration with IBM Research
 
